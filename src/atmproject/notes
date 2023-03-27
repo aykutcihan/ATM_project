@@ -1,0 +1,24 @@
+
+
+double checkingBalance ;     vadesiz hesap
+double savingBalance;     vadeli hesap
+
+checking hesaptan para cekeriz
+
+checking hesaba para yatiririz
+
+saving hesaptan para cekeriz
+
+saving  hesaba para yatiririz
+
+checkingIslemleri(filtereleme)  ;  checking hesaptan para cekeriz
+
+checking hesaba para yatirma islemleri (filtreleme) ;
+checking hesaba para yatiririz
+
+savingIslemleri (filrelemme) ; saving hesaptan para cekeriz
+
+saving hesaba para yatirma islemleri (filtreleme) ;
+saving hesaba para yatiriniz
+
+
